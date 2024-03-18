@@ -5,7 +5,7 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="GIF" width=100% hight="auto">
 
 <h3>📝 My  interests:</h3>
-<a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=1500&pause=500&multiline=true&repeat=false&random=false&width=435&lines=Embedded+System+;Machine+Learning" alt="Typing SVG" /></a>" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=1500&pause=500&multiline=true&repeat=false&random=false&width=435&lines=Embedded+System+;Machine+Learning" alt="Typing SVG" /></a>
 
 <h3>🛠️ Skill and Tools:</h3>
 <a href="https://www.learn-c.org/"><img src="./src/images/c.png" alt="C" title="C" width="45px" height="45px"></a> &nbsp;
