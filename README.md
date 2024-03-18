@@ -13,19 +13,19 @@
 <a href="https://www.python.org/"><img src="./src/images/py.png" alt="Python" title="Python" width="45px" height="45px"></a> &nbsp;
 <a href="https://www.mathworks.com/products/matlab.html"><img src="./src/images/matlab.png" alt="MatLab" title="MatLab" width="45px" height="45px"></a> &nbsp;
 <a href="https://www.verilog.com/"><img src="./src/images/verilog.png" alt="Verilog" title="Verilog" width="45px" height="45px"></a> &nbsp;
-
 <img src="./src/images/git.png" alt="Git" title="Git" width="45px" height="45px"> &nbsp;<img src="./src/images/linux.png" alt="Linux" title="Linux" width="45px" height="45px"> &nbsp;
 
 
 <h3>🏫 Education </h3>
 
-<strong>National Chi Nan University</strong>
-
-Bachelor of Science in Computer Science and Information Engineering Sep, 2019 - Jul, 2023
-
 <strong>National Cheng Kung University</strong>
 
-Master of Science in Electrical Engineering  Sep, 2023 - Present
+Master of Science in Electrical Engineering                                                                                                                                                        Sep, 2023 - Present
+
+
+<strong>National Chi Nan University</strong>
+
+Bachelor of Science in Computer Science and Information Engineering                                                                                                                              Sep, 2019 - Jul, 2023
 
 
 
