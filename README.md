@@ -21,12 +21,12 @@
 
 <strong>National Cheng Kung University</strong>
 
-Master of Science in Electrical Engineering   <div style="text-align: right">Sep, 2023 - Present</div>
+Master of Science in Electrical Engineering Sep, 2023 - Present</div>
 
 
 <strong>National Chi Nan University</strong>
 
-Bachelor of Science in Computer Science and Information Engineering   <div style="text-align: right">Sep, 2019 - Jul, 2023</div>
+Bachelor of Science in Computer Science and Information Engineering Sep, 2019 - Jul, 2023</div>
 
 
 
