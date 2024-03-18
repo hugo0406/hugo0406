@@ -4,15 +4,8 @@
 <h3 align="center">Computer science student from Taiwan <img src="./src/gif/about_me.gif" width="30px"></h3>
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="GIF" width=100% hight="auto">
 
-
-
-<h3>📲 Contact me:</h3>
-
-<a href="https://www.instagram.com/river_shine.0406/"><img src="./src/images/ig.png" alt="Instagram" title="Instagram" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.facebook.com/chanyou.chen.7/"><img src="./src/images/fb.png" alt="Facebook" title="Facebook" width="45px" height="45px"></a> &nbsp;
-
 <h3>📝 My  interests:</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=1500&pause=500&multiline=true&random=false&width=435&lines=Embedded+System;Artificial+Intelligence" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=1500&pause=500&multiline=true&repeat=false&random=false&width=435&lines=Embedded+System+;Machine+Learning" alt="Typing SVG" /></a>" alt="Typing SVG" /></a>
 
 <h3>🛠️ Skill and Tools:</h3>
 <a href="https://www.learn-c.org/"><img src="./src/images/c.png" alt="C" title="C" width="45px" height="45px"></a> &nbsp;
@@ -23,7 +16,10 @@
 
 <img src="./src/images/git.png" alt="Git" title="Git" width="45px" height="45px"> &nbsp;<img src="./src/images/linux.png" alt="Linux" title="Linux" width="45px" height="45px"> &nbsp;
 
+<h3>📲 Contact me:</h3>
 
+<a href="https://www.instagram.com/river_shine.0406/"><img src="./src/images/ig.png" alt="Instagram" title="Instagram" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.facebook.com/chanyou.chen.7/"><img src="./src/images/fb.png" alt="Facebook" title="Facebook" width="45px" height="45px"></a> &nbsp;
 
 <!--
 **hugo0406/hugo0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
