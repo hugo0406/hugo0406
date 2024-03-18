@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">(っ◔◡◔)っ Hi there, I'm <a href="https://github.com/hugo0406" target="_blank">Hugo</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **hugo0406/hugo0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
