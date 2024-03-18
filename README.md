@@ -16,6 +16,15 @@
 
 <img src="./src/images/git.png" alt="Git" title="Git" width="45px" height="45px"> &nbsp;<img src="./src/images/linux.png" alt="Linux" title="Linux" width="45px" height="45px"> &nbsp;
 
+
+<h3>🏫 Education </h3>
+<strong>National Chi Nan University</strong>
+Bachelor of Science in Computer Science and Information Engineering Sep, 2019 - Jul, 2023
+<strong>National Cheng Kung University</strong>
+Master of Science in Electrical Engineering  Sep, 2023 - Present
+
+
+
 <h3>📲 Contact me:</h3>
 
 <a href="https://www.instagram.com/river_shine.0406/"><img src="./src/images/ig.png" alt="Instagram" title="Instagram" width="45px" height="45px"></a> &nbsp;
