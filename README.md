@@ -1,6 +1,7 @@
 <h1 align="center">(っ◔◡◔)っ Hi there, I'm <a href="https://github.com/hugo0406" target="_blank">Hugo</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<h3 align="center">ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕤𝕔𝕚𝕖𝕟𝕔𝕖 𝕤𝕥𝕦𝕕𝕖𝕟𝕥 𝕗𝕣𝕠𝕞 𝕋𝕒𝕚𝕨𝕒𝕟 <img src="./src/gif/about_me.gif" width="30px"></h3>
 <!--
 **hugo0406/hugo0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
