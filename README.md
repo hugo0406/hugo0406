@@ -14,6 +14,17 @@
 <h3>📝 𝕄𝕪 𝕘𝕠𝕒𝕝𝕤 𝕒𝕟𝕕 𝕚𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤:</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=1500&pause=500&multiline=true&random=false&width=435&lines=Embedded+System;Artificial+Intelligence" alt="Typing SVG" /></a>
 
+<h3>🛠️ 𝕊𝕜𝕚𝕝𝕝 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:</h3>
+<a href="https://www.learn-c.org/"><img src="./src/images/c.png" alt="C" title="C" width="45px" height="45px"></a> &nbsp;
+<a href="https://isocpp.org/"><img src="./src/images/cpp.png" alt="C++" title="C++" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.python.org/"><img src="./src/images/py.png" alt="Python" title="Python" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.mathworks.com/products/matlab.html"><img src="./src/images/matlab.png" alt="MatLab" title="MatLab" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.verilog.com/"><img src="./src/images/verilog.png" alt="Verilog" title="Verilog" width="45px" height="45px"></a> &nbsp;
+
+<img src="./src/images/git.png" alt="Git" title="Git" width="45px" height="45px"> &nbsp;<img src="./src/images/linux.png" alt="Linux" title="Linux" width="45px" height="45px"> &nbsp;
+
+
+
 <!--
 **hugo0406/hugo0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
