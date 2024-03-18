@@ -11,6 +11,9 @@
 <a href="https://www.instagram.com/river_shine.0406/"><img src="./src/images/ig.png" alt="Instagram" title="Instagram" width="45px" height="45px"></a> &nbsp;
 <a href="https://www.facebook.com/chanyou.chen.7/"><img src="./src/images/fb.png" alt="Facebook" title="Facebook" width="45px" height="45px"></a> &nbsp;
 
+<h3>📝 𝕄𝕪 𝕘𝕠𝕒𝕝𝕤 𝕒𝕟𝕕 𝕚𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤:</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=1500&pause=500&random=false&width=435&lines=Embedded+System;Artificial+Intelligence;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" /></a>
+
 <!--
 **hugo0406/hugo0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
