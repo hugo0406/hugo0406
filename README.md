@@ -23,6 +23,11 @@
 
 <strong>National Chi Nan University</strong>, Bachelor of Science in Computer Science and Information Engineering (Sep, 2019 - Jul, 2023)
 
+<h3>✨ Experience: </h3>
+
+<strong>Computer Organization Course<strong>
+Teaching assistant (Sep, 2023 - Jan, 2024)
+
 <h3>📲 Contact me:</h3>
 
 <a href="https://www.instagram.com/river_shine.0406/"><img src="./src/images/ig.png" alt="Instagram" title="Instagram" width="45px" height="45px"></a> &nbsp;
