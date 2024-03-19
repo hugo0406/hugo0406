@@ -27,7 +27,7 @@
 
 <a href="https://www.instagram.com/river_shine.0406/"><img src="./src/images/ig.png" alt="Instagram" title="Instagram" width="45px" height="45px"></a> &nbsp;
 <a href="https://www.facebook.com/chanyou.chen.7/"><img src="./src/images/fb.png" alt="Facebook" title="Facebook" width="45px" height="45px"></a> &nbsp;
-<a href="www.linkedin.com/in/chuan-yao-chen-24830917a"><img src="./src/images/linkedin.svg" alt="Linkedin" title="Linkedin" width="45px" height="45px"></a> &nbsp;
+<a href="www.linkedin.com/in/chuan-yao-chen-24830917a"><img src="./src/images/linkedin.svg" alt="Linkedin" title="Linkedin" width="40px" height="40px"></a> &nbsp;
 <!--
 **hugo0406/hugo0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
