@@ -25,7 +25,7 @@
 
 <h3>✨ Experience: </h3>
 
-<strong>Computer Organization Course</strong> Teaching assistant (Sep, 2023 - Jan, 2024)
+<strong>Computer Organization Course</strong> Teaching Assistant (Sep, 2023 - Jan, 2024)
 
 <h3>📲 Contact me:</h3>
 
