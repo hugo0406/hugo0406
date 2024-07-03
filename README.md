@@ -24,6 +24,7 @@
 
 <h3>✨ Experience: </h3>
 
+<strong>Silicon Motion Technology Corp.</strong> Summer Intern, Firmware Engineer (Jul, 2024 - Sep, 2024)
 <strong>Computer Organization Course</strong>, Teaching Assistant (Sep, 2023 - Jan, 2024)
 
 <h3>📲 Contact me:</h3>
