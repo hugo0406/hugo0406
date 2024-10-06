@@ -24,7 +24,7 @@
 
 <h3>✨ Experience: </h3>
 
-<strong>Firmware Engineer Summer Intern</strong>, Silicon Motion Technology Corp. (Jul, 2024 - Sep, 2024)
+<strong>SSD Firmware Engineer Summer Intern</strong>, Silicon Motion Technology Corp. (Jul, 2024 - Sep, 2024)
 
 <strong>Computer Organization Course Assistant</strong>, National Chi Nan University (Sep, 2023 - Jan, 2024)
 
