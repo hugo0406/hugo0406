@@ -18,15 +18,15 @@
 
 <h3>🏫 Education: </h3>
 
-<strong>National Cheng Kung University</strong>, Master of Science in Electrical Engineering (Sep, 2023 - Present)
+<strong>National Cheng Kung University</strong>, Master of Science in Electrical Engineering (Sep.2023 - Present)
 
-<strong>National Chi Nan University</strong>, Bachelor of Science in Computer Science and Information Engineering (Sep, 2019 - Jul, 2023)
+<strong>National Chi Nan University</strong>, Bachelor of Science in Computer Science and Information Engineering (Sep.2019 - Jul.2023)
 
 <h3>✨ Experience: </h3>
 
-<strong>SSD Firmware Engineer Summer Intern</strong>, Silicon Motion Technology Corp. (Jul, 2024 - Sep, 2024)
+<strong>SSD Firmware Engineer Summer Intern</strong>, Silicon Motion (Jul.2024 - Sep.2024)
 
-<strong>Computer Organization Course Assistant</strong>, National Chi Nan University (Sep, 2023 - Jan, 2024)
+<strong>Computer Organization Course Assistant</strong>, National Chi Nan University (Sep.2023 - Jan.2024)
 
 <h3>📲 Contact me:</h3>
 
