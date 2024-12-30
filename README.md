@@ -5,7 +5,7 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="GIF" width=100% hight="auto">
 
 <h3>📝 My  interests:</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&random=false&width=435&lines=Embedded+System;Firmware" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&duration=2000&pause=400&multiline=true&width=800&height=100&lines=Deep+Learning;Computer+Vision;Embedded+System++;Firmware" alt="Typing SVG" /></a>
 <h3>🛠️ Skill and Tools:</h3>
 <a href="https://www.learn-c.org/"><img src="./src/images/c.png" alt="C" title="C" width="45px" height="45px"></a> &nbsp;
 <a href="https://isocpp.org/"><img src="./src/images/cpp.png" alt="C++" title="C++" width="45px" height="45px"></a> &nbsp;
